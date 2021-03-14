@@ -5,9 +5,10 @@ Hi there, I'm **Katie Marie**, a **Software Engineer** 🚀 from Seattle.
 
 **Personal**
 
-- 👨🏽‍💻 I’m looking to work with companies that focus on lifting up women;
-- 🌱 I currently volunteer as website manager and "That Can't Be True" content editor for www.nowseattle.org;
-- 💼 I’m endorsed by [Lambda School for Full Stack Web Development](https://www.youracclaim.com/badges/661b539a-83f6-4018-8253-2d2c418c2133/public_url);
+- 👩‍💻 I’m looking to work with companies that focus on lifting up women;
+- 🌱 I currently volunteer as website manager and content editor for www.nowseattle.org;
+- 🌳 I recently volunteered to create https://www.savetheancientoaks.netlify.app;
+- 💻 I’m currently working as a Software Developer at 100Devs
 - 💬 Ask me about anything, I am happy to help.
 - 📫 To reach me, please email katiemariedev@protonmail.com
 - 📝 See my [Resume](LINK PENDING) to get more info.
@@ -31,4 +32,4 @@ Hi there, I'm **Katie Marie**, a **Software Engineer** 🚀 from Seattle.
 
 <br>
 
-![kguite's github stats](https://github-readme-stats.vercel.app/api?username=mtoricruz&count_private=true&show_icons=true&theme=default)
+![kguite's github stats](https://github-readme-stats.vercel.app/api?username=kguite&count_private=true&show_icons=true&theme=default)
