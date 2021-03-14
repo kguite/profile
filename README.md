@@ -1,6 +1,5 @@
 ### Welcome to my profile! <a href="https://www.linkedin.com/in/katiemariedev/"><img align="center" alt="KatieMarie's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
-<iframe src="https://gifer.com/embed/Vnni" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/6285457cff60df50c3425941897ed4b4/tenor.gif"/>
 
 
 Hi there, I'm **Katie Marie**, a **Software Engineer** 🚀 from Seattle.
